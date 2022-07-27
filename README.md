@@ -1,5 +1,3 @@
-<p align="center"><img src="public/img/logo_hoja.png"></p>
-
 ## Phi-Organic
 
 Phi-Organic es un E-commerce de venta de productos orgánicos desarrollado con mi grupo de trabajo como proyecto integrador de Digital House, el mismo cuenta con
