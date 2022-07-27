@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<p align="center"><img src="public/img/logo_hoja.png"></p>
 
-You can use the [editor on GitHub](https://github.com/mgferrini/pi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Phi-Organic
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Phi-Organic es un E-commerce de venta de productos orgánicos desarrollado con mi grupo de trabajo como proyecto integrador de Digital House, el mismo cuenta con
 
-### Markdown
+- Perfiles de Sesión
+- Productos
+- Login Popup | Formulario de registro
+- Carrito de compras (Auto incremental)
+- Categorías de productos
+- ABM de productos
+- Buscador
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Es una web simple, agradable a la vista y que promueve el uso de elementos naturales y orgánicos
 
-```markdown
-Syntax highlighted code block
+## ¿Cómo está compuesta?
 
-# Header 1
-## Header 2
-### Header 3
+- HTML & CSS (Vistas)
+- PHP (Conexión a base de datos y formularios)
+- MySQL (Almacenamiento de productos, usuarios, categorías)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgferrini/pi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Espero que sea de tu agrado. Lamentablemente ya no es posible visualizarla pero es apta para su descarga/clonación.
